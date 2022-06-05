@@ -1,0 +1,16 @@
+C:\Users\SamaNet\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.exe
+C:\Users\SamaNet\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.deps.json
+C:\Users\SamaNet\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.json
+C:\Users\SamaNet\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.dev.json
+C:\Users\SamaNet\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.dll
+C:\Users\SamaNet\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.pdb
+C:\Users\SamaNet\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.csproj.AssemblyReference.cache
+C:\Users\SamaNet\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.Form1.resources
+C:\Users\SamaNet\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.csproj.GenerateResource.cache
+C:\Users\SamaNet\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamaNet\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfoInputs.cache
+C:\Users\SamaNet\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfo.cs
+C:\Users\SamaNet\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.csproj.CoreCompileInputs.cache
+C:\Users\SamaNet\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.dll
+C:\Users\SamaNet\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.pdb
+C:\Users\SamaNet\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.genruntimeconfig.cache
